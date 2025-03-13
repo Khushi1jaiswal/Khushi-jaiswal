@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-cout<<"khushi jaiswal"
+cout<<"khushi jaiswal";
 
 return 0;
 }
